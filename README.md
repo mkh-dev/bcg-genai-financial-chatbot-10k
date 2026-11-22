@@ -103,11 +103,3 @@ Supported predefined queries:
 
 * **Current Limitations:** Deterministic `if-elif-else` rule matching and annual structured metrics (`FY2023–FY2025`) do not yet parse narrative 10-K sections (MD&A, risk factors, footnotes) or quarterly `10-Q` filings.
 * **Next Steps:** Evolve toward a hybrid architecture combining structured queries/SQL with **RAG** over filing narratives (with source citations) and automated unit tests (`pytest`).
-
----
-
-## 👤 Author
-
-**Malek Khelil** — Aspiring Data Scientist / Data Analyst seeking an internship in **Data Science, Analytics & Applied AI**.  
-* LinkedIn: `https://www.linkedin.com/` *(update with your profile URL)*  
-* Email: `your.email@example.com` *(update with your email address)*
