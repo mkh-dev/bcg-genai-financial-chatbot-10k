@@ -1,0 +1,32 @@
+GFC FINANCIAL CHATBOT PROTOTYPE - TEST RESULTS
+============================================================
+
+Test 1:
+Query   : What is the total revenue? Microsoft 2025
+Response: The total revenue for Microsoft in FY2025 is $281,724 million (+14.93% YoY). Insight: Top-line scale reflects Microsoft's core demand trajectory in its 10-K filing.
+
+Test 2:
+Query   : How has net income changed over the last year? Tesla 2025
+Response: For Tesla in FY2025, net income decreased by 46.96% year-over-year to $3,794 million (Net Profit Margin: 4.00%). Insight: Compare bottom-line change against revenue growth to assess margin expansion or compression.
+
+Test 3:
+Query   : What are the total assets and total liabilities? Apple 2025
+Response: For Apple in FY2025, Total Assets are $359,241 million and Total Liabilities are $285,508 million (Liabilities-to-Assets ratio: 79.48%). Insight: Balance sheet leverage should be interpreted alongside cash flow and capital return policies.
+
+Test 4:
+Query   : What is the cash flow from operating activities? Microsoft 2025
+Response: For Microsoft in FY2025, Cash Flow from Operating Activities is $136,162 million (+14.86% YoY). Insight: Operating cash flow measures core cash generation supporting investments and liquidity.
+
+Test 5:
+Query   : Compare total revenue across companies in 2025
+Response: Total Revenue comparison across companies in FY2025: Apple: $416,161M | Microsoft: $281,724M | Tesla: $94,827M. Insight: Highlighting scale differences helps GFC clients benchmark market leaders.
+
+Test 6:
+Query   : What is Amazon's stock price tomorrow?
+Response: Sorry, I can only provide information on predefined financial queries for Apple, Microsoft, and Tesla (FY2023-FY2025). Try asking:
+  - What is the total revenue?
+  - How has net income changed over the last year?
+  - What are the total assets and total liabilities?
+  - What is the cash flow from operating activities?
+  - Compare total revenue across companies
+
